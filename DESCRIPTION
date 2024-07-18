@@ -1,0 +1,14 @@
+Package: LCCSS
+Type: Package
+Title: Calculate Liver Cancer Cell Senescence Score
+Version: 1.0
+Authors@R: person("hu xin", role = c("aut", "cre"), email = "tmu2018huxin@163.com")
+Maintainer: hu xin <tmu2018huxin@163.com>
+Description: This package provides a function to calculate the Liver Cancer Cell Senescence Score (LCCSS) based on gene expression data. The expression matrix should have rows as samples and columns as genes.
+License: GPL-3
+RoxygenNote: 7.3.1
+NeedsCompilation: no
+Packaged: 2024-07-18 20:41:09 UTC; Administrator
+Author: hu xin [aut, cre]
+Depends: R (>= 3.5.0)
+Built: R 4.3.2; ; 2024-07-18 20:41:11 UTC; windows
